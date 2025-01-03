@@ -119,9 +119,13 @@ Our workshop includes hands-on exercises covering:
 - Duration: 2 Days
 - Daily Sessions: 9 AM - 5 PM
 
+## Environment setup
 
-Last Updated: January 3, 2025
-
+<div align="center">
+  <img src="workshop setup.png" alt="ubuntu" width="400"/>
+  <br>
+  <em>Ubuntu Environment Setup </em>
+</div>
 ---
 <div align="center">
 Empowering Future Innovators in RISC-V Technology
