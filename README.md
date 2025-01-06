@@ -132,7 +132,7 @@ Empowering Future Innovators in RISC-V Technology
 </div>
 
 <div align="center">
-  <img src="JAN6 introduction.png" alt="JAN6 introduction" width="400"/>
+  <img src="images/JAN6 introduction.png" alt="JAN6 introduction" width="400"/>
   <br>
   <em>Setup of openlane and docker</em>
 </div>
