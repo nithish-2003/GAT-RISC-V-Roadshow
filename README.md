@@ -131,8 +131,10 @@ Our workshop includes hands-on exercises covering:
 Empowering Future Innovators in RISC-V Technology
 </div>
 
+## JAN 6
+
 <div align="center">
-  <img src="images/JAN6 introduction.png" alt="JAN6 introduction" width="400"/>
+  <img src="Jan6introduction.png" alt="JAN6 introduction" width="400"/>
   <br>
   <em>Setup of openlane and docker</em>
 </div>
